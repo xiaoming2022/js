@@ -393,7 +393,7 @@ ul::-webkit-scrollbar-track{-webkit-box-shadow: inset 0 0 5px #ddd;border-radius
 to{width: 15px;}}
 #link3 d{margin-left: 10px;color: #fff;-font-weight: bold;padding: 2px 10px;background: #666;border-radius: 4px;}
 #link3 e{font-weight: bold;float: left;}
-.loading .pic{background: url(https://ae01.alicdn.com/kf/HTB1Zzg9bvBj_uVjSZFp5jc0SXXau.gif) no-repeat;-background: url(https://s2.ax1x.com/2019/11/16/M0Jy01.gif) no-repeat;background: url(https://open-1300407952.file.myqcloud.com/enterprise/2022-01-25/5ad1caa0-df95-45e2-83ed-101d9c878a9d.gif) no-repeat;
+.loading .pic{background: url(https://ae01.alicdn.com/kf/HTB1Zzg9bvBj_uVjSZFp5jc0SXXau.gif) no-repeat;-background: url(https://s2.ax1x.com/2019/11/16/M0Jy01.gif) no-repeat;background: url(https://gamer.qpic.cn/2022/01/28_1643359563709_68933.gif) no-repeat;
 -background: url(http://tva1.sinaimg.cn/large/007X8olVly1g8tzomzqxfg302i02iglg.gif) no-repeat;width: 80px;height: 115px;background-size: 100%;margin: 0 auto;position: absolute;/* bottom: 62px; *//* right: 45px; */margin: -65px 0 0 -40px;pointer-events: none;border: 0;border-color: unset;opacity: 1;border-radius: 0;width: 70px;height: 100px;-moz-animation: spinoffPulse .9s infinite linear;-webkit-animation: unset;/* background-image: url(https://ae01.alicdn.com/kf/HTB1Zzg9bvBj_uVjSZFp5jc0SXXau.gif); */background-size: 100%;/* background-image: url(http://tva1.sinaimg.cn/large/007X8olVly1g8u09dpnksg300w00w742.gif); */top: 50%;left: 50%;height: 110px;width: 80px;}
 .loading .tips{/* position: absolute;*/z-index: 2;color: #666;text-align: center;width: 200px;margin: 0 auto;font-size: 12px;margin-left: -60px;}
 @-webkit-keyframes vod_loading{
