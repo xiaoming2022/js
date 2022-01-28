@@ -1,4 +1,4 @@
-@font-face {font-family: 'lelefont';src: url('https://cdn.jsdelivr.net/gh/xiaoming2022/js@022ad8c37802496da5845457ab8a378d6dc1ddec/Mao.ttf');}
+@font-face {font-family: 'lelefont';src: url('/Mao.ttf');}
 button[data-balloon]{overflow:visible}
 [data-balloon]{position:relative;cursor:pointer}
 [data-balloon]:after{font-family:sans-serif!important;font-weight:400!important;font-style:normal!important;text-shadow:none!important;font-size:12px!important;background:hsla(0,0%,7%,.9);border-radius:4px;color:#fff;content:attr(data-balloon);padding:.5em 1em;white-space:nowrap}
